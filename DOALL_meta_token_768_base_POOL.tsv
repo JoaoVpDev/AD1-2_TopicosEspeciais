@@ -1,0 +1,289 @@
+Token	POS-Tag	OOV	Id	Index	Documento
+O	DET	0	1	0	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+Brasil	PROPN	0	1	1	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+venceu	VERB	0	1	2	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+o	DET	0	1	3	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+jogo	NOUN	0	1	4	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+de	ADP	0	1	5	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+futebol	NOUN	0	1	6	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+com	ADP	0	1	7	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+grande	ADJ	0	1	8	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+atuação	NOUN	0	1	9	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+coletiva	ADJ	0	1	10	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+.	PUNCT	0	1	11	O Brasil venceu o jogo de futebol com grande atuação coletiva .
+A	DET	0	2	0	A inteligência artificial está transformando o mercado de trabalho .
+inteligência	NOUN	0	2	1	A inteligência artificial está transformando o mercado de trabalho .
+artificial	ADJ	0	2	2	A inteligência artificial está transformando o mercado de trabalho .
+está	AUX	0	2	3	A inteligência artificial está transformando o mercado de trabalho .
+transformando	VERB	0	2	4	A inteligência artificial está transformando o mercado de trabalho .
+o	DET	0	2	5	A inteligência artificial está transformando o mercado de trabalho .
+mercado	NOUN	0	2	6	A inteligência artificial está transformando o mercado de trabalho .
+de	ADP	0	2	7	A inteligência artificial está transformando o mercado de trabalho .
+trabalho	NOUN	0	2	8	A inteligência artificial está transformando o mercado de trabalho .
+.	PUNCT	0	2	9	A inteligência artificial está transformando o mercado de trabalho .
+O	DET	0	3	0	O governo anunciou novas medidas econômicas para o próximo ano .
+governo	NOUN	0	3	1	O governo anunciou novas medidas econômicas para o próximo ano .
+anunciou	VERB	0	3	2	O governo anunciou novas medidas econômicas para o próximo ano .
+novas	ADJ	0	3	3	O governo anunciou novas medidas econômicas para o próximo ano .
+medidas	NOUN	0	3	4	O governo anunciou novas medidas econômicas para o próximo ano .
+econômicas	ADJ	0	3	5	O governo anunciou novas medidas econômicas para o próximo ano .
+para	ADP	0	3	6	O governo anunciou novas medidas econômicas para o próximo ano .
+o	DET	0	3	7	O governo anunciou novas medidas econômicas para o próximo ano .
+próximo	ADJ	0	3	8	O governo anunciou novas medidas econômicas para o próximo ano .
+ano	NOUN	0	3	9	O governo anunciou novas medidas econômicas para o próximo ano .
+.	PUNCT	0	3	10	O governo anunciou novas medidas econômicas para o próximo ano .
+Startups	PROPN	1	4	0	Startups brasileiras estão crescendo no setor de tecnologia .
+brasileiras	ADJ	0	4	1	Startups brasileiras estão crescendo no setor de tecnologia .
+estão	AUX	0	4	2	Startups brasileiras estão crescendo no setor de tecnologia .
+crescendo	VERB	0	4	3	Startups brasileiras estão crescendo no setor de tecnologia .
+no	ADP	0	4	4	Startups brasileiras estão crescendo no setor de tecnologia .
+setor	NOUN	0	4	5	Startups brasileiras estão crescendo no setor de tecnologia .
+de	ADP	0	4	6	Startups brasileiras estão crescendo no setor de tecnologia .
+tecnologia	NOUN	0	4	7	Startups brasileiras estão crescendo no setor de tecnologia .
+.	PUNCT	0	4	8	Startups brasileiras estão crescendo no setor de tecnologia .
+O	DET	0	5	0	O time conquistou o campeonato após uma partida emocionante .
+time	NOUN	0	5	1	O time conquistou o campeonato após uma partida emocionante .
+conquistou	VERB	0	5	2	O time conquistou o campeonato após uma partida emocionante .
+o	DET	0	5	3	O time conquistou o campeonato após uma partida emocionante .
+campeonato	NOUN	0	5	4	O time conquistou o campeonato após uma partida emocionante .
+após	ADP	0	5	5	O time conquistou o campeonato após uma partida emocionante .
+uma	DET	0	5	6	O time conquistou o campeonato após uma partida emocionante .
+partida	NOUN	0	5	7	O time conquistou o campeonato após uma partida emocionante .
+emocionante	ADJ	1	5	8	O time conquistou o campeonato após uma partida emocionante .
+.	PUNCT	0	5	9	O time conquistou o campeonato após uma partida emocionante .
+Pesquisadores	NOUN	1	6	0	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+desenvolveram	VERB	0	6	1	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+um	DET	0	6	2	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+novo	ADJ	0	6	3	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+modelo	NOUN	0	6	4	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+de	ADP	0	6	5	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+linguagem	NOUN	0	6	6	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+avançado	VERB	0	6	7	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+.	PUNCT	0	6	8	Pesquisadores desenvolveram um novo modelo de linguagem avançado .
+A	DET	0	7	0	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+cidade	NOUN	0	7	1	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+de	ADP	0	7	2	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+São	PROPN	0	7	3	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+Paulo	PROPN	0	7	4	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+enfrenta	VERB	0	7	5	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+problemas	NOUN	0	7	6	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+de	ADP	0	7	7	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+mobilidade	NOUN	0	7	8	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+urbana	ADJ	0	7	9	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+.	PUNCT	0	7	10	A cidade de São Paulo enfrenta problemas de mobilidade urbana .
+O	DET	0	8	0	O aplicativo facilita o agendamento de consultas médicas .
+aplicativo	NOUN	0	8	1	O aplicativo facilita o agendamento de consultas médicas .
+facilita	VERB	1	8	2	O aplicativo facilita o agendamento de consultas médicas .
+o	DET	0	8	3	O aplicativo facilita o agendamento de consultas médicas .
+agendamento	NOUN	1	8	4	O aplicativo facilita o agendamento de consultas médicas .
+de	ADP	0	8	5	O aplicativo facilita o agendamento de consultas médicas .
+consultas	NOUN	1	8	6	O aplicativo facilita o agendamento de consultas médicas .
+médicas	ADJ	0	8	7	O aplicativo facilita o agendamento de consultas médicas .
+.	PUNCT	0	8	8	O aplicativo facilita o agendamento de consultas médicas .
+Estudos	NOUN	0	9	0	Estudos mostram aumento no uso de energia renovável no país .
+mostram	VERB	0	9	1	Estudos mostram aumento no uso de energia renovável no país .
+aumento	NOUN	0	9	2	Estudos mostram aumento no uso de energia renovável no país .
+no	ADP	0	9	3	Estudos mostram aumento no uso de energia renovável no país .
+uso	NOUN	0	9	4	Estudos mostram aumento no uso de energia renovável no país .
+de	ADP	0	9	5	Estudos mostram aumento no uso de energia renovável no país .
+energia	NOUN	0	9	6	Estudos mostram aumento no uso de energia renovável no país .
+renovável	ADJ	1	9	7	Estudos mostram aumento no uso de energia renovável no país .
+no	ADP	0	9	8	Estudos mostram aumento no uso de energia renovável no país .
+país	NOUN	0	9	9	Estudos mostram aumento no uso de energia renovável no país .
+.	PUNCT	0	9	10	Estudos mostram aumento no uso de energia renovável no país .
+A	DET	0	10	0	A bolsa de valores teve alta significativa nesta semana .
+bolsa	NOUN	0	10	1	A bolsa de valores teve alta significativa nesta semana .
+de	ADP	0	10	2	A bolsa de valores teve alta significativa nesta semana .
+valores	NOUN	0	10	3	A bolsa de valores teve alta significativa nesta semana .
+teve	VERB	0	10	4	A bolsa de valores teve alta significativa nesta semana .
+alta	ADJ	0	10	5	A bolsa de valores teve alta significativa nesta semana .
+significativa	ADJ	0	10	6	A bolsa de valores teve alta significativa nesta semana .
+nesta	ADP	0	10	7	A bolsa de valores teve alta significativa nesta semana .
+semana	NOUN	0	10	8	A bolsa de valores teve alta significativa nesta semana .
+.	PUNCT	0	10	9	A bolsa de valores teve alta significativa nesta semana .
+O	DET	0	11	0	O presidente discursou sobre educação e inovação tecnológica .
+presidente	NOUN	0	11	1	O presidente discursou sobre educação e inovação tecnológica .
+discursou	VERB	1	11	2	O presidente discursou sobre educação e inovação tecnológica .
+sobre	ADP	0	11	3	O presidente discursou sobre educação e inovação tecnológica .
+educação	NOUN	0	11	4	O presidente discursou sobre educação e inovação tecnológica .
+e	CCONJ	0	11	5	O presidente discursou sobre educação e inovação tecnológica .
+inovação	NOUN	0	11	6	O presidente discursou sobre educação e inovação tecnológica .
+tecnológica	ADJ	0	11	7	O presidente discursou sobre educação e inovação tecnológica .
+.	PUNCT	0	11	8	O presidente discursou sobre educação e inovação tecnológica .
+Novos	ADJ	0	12	0	Novos avanços em IA estão mudando a indústria global .
+avanços	NOUN	0	12	1	Novos avanços em IA estão mudando a indústria global .
+em	ADP	0	12	2	Novos avanços em IA estão mudando a indústria global .
+IA	NUM	0	12	3	Novos avanços em IA estão mudando a indústria global .
+estão	AUX	0	12	4	Novos avanços em IA estão mudando a indústria global .
+mudando	VERB	0	12	5	Novos avanços em IA estão mudando a indústria global .
+a	DET	0	12	6	Novos avanços em IA estão mudando a indústria global .
+indústria	NOUN	0	12	7	Novos avanços em IA estão mudando a indústria global .
+global	ADJ	0	12	8	Novos avanços em IA estão mudando a indústria global .
+.	PUNCT	0	12	9	Novos avanços em IA estão mudando a indústria global .
+A	DET	0	13	0	A vacinação contribuiu para a redução de doenças no Brasil .
+vacinação	NOUN	1	13	1	A vacinação contribuiu para a redução de doenças no Brasil .
+contribuiu	VERB	0	13	2	A vacinação contribuiu para a redução de doenças no Brasil .
+para	ADP	0	13	3	A vacinação contribuiu para a redução de doenças no Brasil .
+a	DET	0	13	4	A vacinação contribuiu para a redução de doenças no Brasil .
+redução	NOUN	0	13	5	A vacinação contribuiu para a redução de doenças no Brasil .
+de	ADP	0	13	6	A vacinação contribuiu para a redução de doenças no Brasil .
+doenças	NOUN	0	13	7	A vacinação contribuiu para a redução de doenças no Brasil .
+no	ADP	0	13	8	A vacinação contribuiu para a redução de doenças no Brasil .
+Brasil	PROPN	0	13	9	A vacinação contribuiu para a redução de doenças no Brasil .
+.	PUNCT	0	13	10	A vacinação contribuiu para a redução de doenças no Brasil .
+O	DET	0	14	0	O filme brasileiro ganhou prêmio internacional importante .
+filme	NOUN	0	14	1	O filme brasileiro ganhou prêmio internacional importante .
+brasileiro	ADJ	0	14	2	O filme brasileiro ganhou prêmio internacional importante .
+ganhou	VERB	0	14	3	O filme brasileiro ganhou prêmio internacional importante .
+prêmio	NOUN	0	14	4	O filme brasileiro ganhou prêmio internacional importante .
+internacional	ADJ	0	14	5	O filme brasileiro ganhou prêmio internacional importante .
+importante	ADJ	0	14	6	O filme brasileiro ganhou prêmio internacional importante .
+.	PUNCT	0	14	7	O filme brasileiro ganhou prêmio internacional importante .
+A	DET	0	15	0	A economia mundial passa por período de instabilidade .
+economia	NOUN	0	15	1	A economia mundial passa por período de instabilidade .
+mundial	ADJ	0	15	2	A economia mundial passa por período de instabilidade .
+passa	VERB	0	15	3	A economia mundial passa por período de instabilidade .
+por	ADP	0	15	4	A economia mundial passa por período de instabilidade .
+período	NOUN	0	15	5	A economia mundial passa por período de instabilidade .
+de	ADP	0	15	6	A economia mundial passa por período de instabilidade .
+instabilidade	NOUN	0	15	7	A economia mundial passa por período de instabilidade .
+.	PUNCT	0	15	8	A economia mundial passa por período de instabilidade .
+Jogadores	NOUN	1	16	0	Jogadores de futebol foram convocados para a seleção nacional .
+de	ADP	0	16	1	Jogadores de futebol foram convocados para a seleção nacional .
+futebol	NOUN	0	16	2	Jogadores de futebol foram convocados para a seleção nacional .
+foram	AUX	0	16	3	Jogadores de futebol foram convocados para a seleção nacional .
+convocados	VERB	1	16	4	Jogadores de futebol foram convocados para a seleção nacional .
+para	ADP	0	16	5	Jogadores de futebol foram convocados para a seleção nacional .
+a	DET	0	16	6	Jogadores de futebol foram convocados para a seleção nacional .
+seleção	NOUN	0	16	7	Jogadores de futebol foram convocados para a seleção nacional .
+nacional	ADJ	0	16	8	Jogadores de futebol foram convocados para a seleção nacional .
+.	PUNCT	0	16	9	Jogadores de futebol foram convocados para a seleção nacional .
+O	DET	0	17	0	O sistema de transporte público será modernizado .
+sistema	NOUN	0	17	1	O sistema de transporte público será modernizado .
+de	ADP	0	17	2	O sistema de transporte público será modernizado .
+transporte	NOUN	0	17	3	O sistema de transporte público será modernizado .
+público	ADJ	0	17	4	O sistema de transporte público será modernizado .
+será	AUX	0	17	5	O sistema de transporte público será modernizado .
+modernizado	VERB	1	17	6	O sistema de transporte público será modernizado .
+.	PUNCT	0	17	7	O sistema de transporte público será modernizado .
+Uma	DET	0	18	0	Uma nova lei de proteção de dados entrou em vigor .
+nova	ADJ	0	18	1	Uma nova lei de proteção de dados entrou em vigor .
+lei	NOUN	0	18	2	Uma nova lei de proteção de dados entrou em vigor .
+de	ADP	0	18	3	Uma nova lei de proteção de dados entrou em vigor .
+proteção	NOUN	0	18	4	Uma nova lei de proteção de dados entrou em vigor .
+de	ADP	0	18	5	Uma nova lei de proteção de dados entrou em vigor .
+dados	NOUN	0	18	6	Uma nova lei de proteção de dados entrou em vigor .
+entrou	VERB	0	18	7	Uma nova lei de proteção de dados entrou em vigor .
+em	ADP	0	18	8	Uma nova lei de proteção de dados entrou em vigor .
+vigor	NOUN	0	18	9	Uma nova lei de proteção de dados entrou em vigor .
+.	PUNCT	0	18	10	Uma nova lei de proteção de dados entrou em vigor .
+Universidades	PROPN	1	19	0	Universidades investem em pesquisa e desenvolvimento científico .
+investem	VERB	1	19	1	Universidades investem em pesquisa e desenvolvimento científico .
+em	ADP	0	19	2	Universidades investem em pesquisa e desenvolvimento científico .
+pesquisa	NOUN	0	19	3	Universidades investem em pesquisa e desenvolvimento científico .
+e	CCONJ	0	19	4	Universidades investem em pesquisa e desenvolvimento científico .
+desenvolvimento	NOUN	0	19	5	Universidades investem em pesquisa e desenvolvimento científico .
+científico	ADJ	0	19	6	Universidades investem em pesquisa e desenvolvimento científico .
+.	PUNCT	0	19	7	Universidades investem em pesquisa e desenvolvimento científico .
+O	DET	0	20	0	O comércio eletrônico cresceu durante o último ano .
+comércio	NOUN	0	20	1	O comércio eletrônico cresceu durante o último ano .
+eletrônico	ADJ	0	20	2	O comércio eletrônico cresceu durante o último ano .
+cresceu	VERB	0	20	3	O comércio eletrônico cresceu durante o último ano .
+durante	ADP	0	20	4	O comércio eletrônico cresceu durante o último ano .
+o	DET	0	20	5	O comércio eletrônico cresceu durante o último ano .
+último	ADJ	0	20	6	O comércio eletrônico cresceu durante o último ano .
+ano	NOUN	0	20	7	O comércio eletrônico cresceu durante o último ano .
+.	PUNCT	0	20	8	O comércio eletrônico cresceu durante o último ano .
+Turistas	NOUN	1	21	0	Turistas visitaram praias famosas do litoral catarinense .
+visitaram	VERB	1	21	1	Turistas visitaram praias famosas do litoral catarinense .
+praias	NOUN	0	21	2	Turistas visitaram praias famosas do litoral catarinense .
+famosas	ADJ	0	21	3	Turistas visitaram praias famosas do litoral catarinense .
+do	ADP	0	21	4	Turistas visitaram praias famosas do litoral catarinense .
+litoral	NOUN	0	21	5	Turistas visitaram praias famosas do litoral catarinense .
+catarinense	ADJ	0	21	6	Turistas visitaram praias famosas do litoral catarinense .
+.	PUNCT	0	21	7	Turistas visitaram praias famosas do litoral catarinense .
+O	DET	0	22	0	O evento de tecnologia reuniu especialistas do mundo inteiro .
+evento	NOUN	0	22	1	O evento de tecnologia reuniu especialistas do mundo inteiro .
+de	ADP	0	22	2	O evento de tecnologia reuniu especialistas do mundo inteiro .
+tecnologia	NOUN	0	22	3	O evento de tecnologia reuniu especialistas do mundo inteiro .
+reuniu	VERB	0	22	4	O evento de tecnologia reuniu especialistas do mundo inteiro .
+especialistas	NOUN	0	22	5	O evento de tecnologia reuniu especialistas do mundo inteiro .
+do	ADP	0	22	6	O evento de tecnologia reuniu especialistas do mundo inteiro .
+mundo	NOUN	0	22	7	O evento de tecnologia reuniu especialistas do mundo inteiro .
+inteiro	ADJ	0	22	8	O evento de tecnologia reuniu especialistas do mundo inteiro .
+.	PUNCT	0	22	9	O evento de tecnologia reuniu especialistas do mundo inteiro .
+Aplicações	NOUN	1	23	0	Aplicações de machine learning estão cada vez mais comuns .
+de	ADP	0	23	1	Aplicações de machine learning estão cada vez mais comuns .
+machine	PROPN	1	23	2	Aplicações de machine learning estão cada vez mais comuns .
+learning	PROPN	1	23	3	Aplicações de machine learning estão cada vez mais comuns .
+estão	AUX	0	23	4	Aplicações de machine learning estão cada vez mais comuns .
+cada	DET	0	23	5	Aplicações de machine learning estão cada vez mais comuns .
+vez	ADP	0	23	6	Aplicações de machine learning estão cada vez mais comuns .
+mais	NOUN	0	23	7	Aplicações de machine learning estão cada vez mais comuns .
+comuns	ADJ	0	23	8	Aplicações de machine learning estão cada vez mais comuns .
+.	PUNCT	0	23	9	Aplicações de machine learning estão cada vez mais comuns .
+O	DET	0	24	0	O clima mudou drasticamente em diversas regiões do país .
+clima	NOUN	0	24	1	O clima mudou drasticamente em diversas regiões do país .
+mudou	VERB	0	24	2	O clima mudou drasticamente em diversas regiões do país .
+drasticamente	ADV	0	24	3	O clima mudou drasticamente em diversas regiões do país .
+em	ADP	0	24	4	O clima mudou drasticamente em diversas regiões do país .
+diversas	DET	0	24	5	O clima mudou drasticamente em diversas regiões do país .
+regiões	NOUN	0	24	6	O clima mudou drasticamente em diversas regiões do país .
+do	ADP	0	24	7	O clima mudou drasticamente em diversas regiões do país .
+país	NOUN	0	24	8	O clima mudou drasticamente em diversas regiões do país .
+.	PUNCT	0	24	9	O clima mudou drasticamente em diversas regiões do país .
+Empresas	NOUN	1	25	0	Empresas adotam soluções digitais para aumentar produtividade .
+adotam	VERB	1	25	1	Empresas adotam soluções digitais para aumentar produtividade .
+soluções	NOUN	0	25	2	Empresas adotam soluções digitais para aumentar produtividade .
+digitais	ADJ	0	25	3	Empresas adotam soluções digitais para aumentar produtividade .
+para	SCONJ	0	25	4	Empresas adotam soluções digitais para aumentar produtividade .
+aumentar	VERB	0	25	5	Empresas adotam soluções digitais para aumentar produtividade .
+produtividade	NOUN	0	25	6	Empresas adotam soluções digitais para aumentar produtividade .
+.	PUNCT	0	25	7	Empresas adotam soluções digitais para aumentar produtividade .
+A	DET	0	26	0	A ciência de dados é essencial para análise de informações .
+ciência	NOUN	0	26	1	A ciência de dados é essencial para análise de informações .
+de	ADP	0	26	2	A ciência de dados é essencial para análise de informações .
+dados	NOUN	0	26	3	A ciência de dados é essencial para análise de informações .
+é	AUX	0	26	4	A ciência de dados é essencial para análise de informações .
+essencial	ADJ	0	26	5	A ciência de dados é essencial para análise de informações .
+para	ADP	0	26	6	A ciência de dados é essencial para análise de informações .
+análise	NOUN	0	26	7	A ciência de dados é essencial para análise de informações .
+de	ADP	0	26	8	A ciência de dados é essencial para análise de informações .
+informações	NOUN	0	26	9	A ciência de dados é essencial para análise de informações .
+.	PUNCT	0	26	10	A ciência de dados é essencial para análise de informações .
+O	DET	0	27	0	O hospital inaugurou uma nova unidade de atendimento .
+hospital	NOUN	0	27	1	O hospital inaugurou uma nova unidade de atendimento .
+inaugurou	VERB	0	27	2	O hospital inaugurou uma nova unidade de atendimento .
+uma	DET	0	27	3	O hospital inaugurou uma nova unidade de atendimento .
+nova	ADJ	0	27	4	O hospital inaugurou uma nova unidade de atendimento .
+unidade	NOUN	0	27	5	O hospital inaugurou uma nova unidade de atendimento .
+de	ADP	0	27	6	O hospital inaugurou uma nova unidade de atendimento .
+atendimento	NOUN	0	27	7	O hospital inaugurou uma nova unidade de atendimento .
+.	PUNCT	0	27	8	O hospital inaugurou uma nova unidade de atendimento .
+O	DET	0	28	0	O agronegócio brasileiro bateu recordes de exportação .
+agronegócio	NOUN	1	28	1	O agronegócio brasileiro bateu recordes de exportação .
+brasileiro	ADJ	0	28	2	O agronegócio brasileiro bateu recordes de exportação .
+bateu	VERB	0	28	3	O agronegócio brasileiro bateu recordes de exportação .
+recordes	NOUN	0	28	4	O agronegócio brasileiro bateu recordes de exportação .
+de	ADP	0	28	5	O agronegócio brasileiro bateu recordes de exportação .
+exportação	NOUN	0	28	6	O agronegócio brasileiro bateu recordes de exportação .
+.	PUNCT	0	28	7	O agronegócio brasileiro bateu recordes de exportação .
+Redes	NOUN	1	29	0	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+neurais	ADJ	1	29	1	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+são	AUX	0	29	2	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+usadas	VERB	0	29	3	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+em	ADP	0	29	4	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+sistemas	NOUN	0	29	5	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+de	ADP	0	29	6	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+reconhecimento	NOUN	0	29	7	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+de	ADP	0	29	8	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+imagem	NOUN	0	29	9	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+.	PUNCT	0	29	10	Redes neurais são usadas em sistemas de reconhecimento de imagem .
+O	DET	0	30	0	O futebol brasileiro possui grande destaque internacional .
+futebol	NOUN	0	30	1	O futebol brasileiro possui grande destaque internacional .
+brasileiro	ADJ	0	30	2	O futebol brasileiro possui grande destaque internacional .
+possui	VERB	0	30	3	O futebol brasileiro possui grande destaque internacional .
+grande	ADJ	0	30	4	O futebol brasileiro possui grande destaque internacional .
+destaque	NOUN	0	30	5	O futebol brasileiro possui grande destaque internacional .
+internacional	ADJ	0	30	6	O futebol brasileiro possui grande destaque internacional .
+.	PUNCT	0	30	7	O futebol brasileiro possui grande destaque internacional .
